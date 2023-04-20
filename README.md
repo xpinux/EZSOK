@@ -12,7 +12,7 @@ Easily scan your files, Hashes, IP addresses, domains, and emails using various 
     - [Option 1: Enter Hash, IP, Domain, or Email](#option-1-enter-hash-ip-domain-or-email)
     - [Option 2: Provide File Path to Calculate Hash](#option-2-provide-file-path-to-calculate-hash)
     - [Option 3: Provide CSV File Path with Hashes, IPs, Domains, or Emails](#option-3-provide-csv-file-path-with-hashes-ips-domains-or-emails)
-- [Tools and APIs used in this project:](#Tools and APIs used in this project:)
+- [Tools and APIs used in this project](#Tools and APIs used in this project)
 - [License](#License)
 - [Disclaimer](#Disclaimer)
 - [Credits](#credits)
