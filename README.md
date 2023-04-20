@@ -74,7 +74,7 @@ Provide a CSV file path containing hashes, IPs, domains, or emails. The script w
 Example:`Enter your choice (1, 2, or 3): 3
 Enter CSV file path: /path/to/your/input.csv`
 
-# Tools and APIs used in this project:
+# Tools and APIs used in this project
     - [VirusTotal](https://www.virustotal.com/)
     - [AbuseIPDB](https://www.abuseipdb.com/)
     - [UrlScan](https://urlscan.io/)
