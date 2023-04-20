@@ -1,4 +1,4 @@
-# EZSOK - Easy Security Overview Kit
+# EZSOK - Easy SOC (K for KAPPA)
 
 Easily scan your files, Hashes, IP addresses, domains, and emails using various security APIs.
 
