@@ -5,15 +5,17 @@ Easily scan your files, Hashes, IP addresses, domains, and emails using various 
 ## Table of Contents
 
 - [Overview](#overview)
+- [Features](#Features)
 - [Installation](#installation)
+- [Dependencies](#Dependencies)
 - [Usage](#usage)
     - [Option 1: Enter Hash, IP, Domain, or Email](#option-1-enter-hash-ip-domain-or-email)
     - [Option 2: Provide File Path to Calculate Hash](#option-2-provide-file-path-to-calculate-hash)
     - [Option 3: Provide CSV File Path with Hashes, IPs, Domains, or Emails](#option-3-provide-csv-file-path-with-hashes-ips-domains-or-emails)
 - [APIs Used](#apis-used)
+- License(#License)
+- Disclaimer(#Disclaimer)
 - [Credits](#credits)
-
-
 
 ## Overview
 
@@ -26,7 +28,7 @@ EZSOK is a Python script that helps you to scan your files, IP addresses, hashes
 
 ## Features
 
-- Scan files, IP addresses, domains, and emails using multiple security APIs
+- Scan files, hashes, IP addresses, domains, and emails using multiple security APIs
 - Calculate file hashes (SHA-256) for scanning
 - Process input data from CSV files
 
@@ -73,7 +75,7 @@ Provide a CSV file path containing hashes, IPs, domains, or emails. The script w
 Example:`Enter your choice (1, 2, or 3): 3
 Enter CSV file path: /path/to/your/input.csv`
 
-#APIs Used
+# APIs Used
 - VirusTotal
 - AbuseIPDB
 - UrlScan
