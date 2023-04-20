@@ -24,7 +24,6 @@ EZSOK is a Python script that helps you to scan your files, IP addresses, Hashes
     - [AbuseIPDB](https://www.abuseipdb.com/)
     - [UrlScan](https://urlscan.io/)
     - [Shodan](https://www.shodan.io/)
-    - [MalwareShare](https://www.malshare.com/)
 
 ## Features
 
