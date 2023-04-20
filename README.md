@@ -37,10 +37,10 @@ EZSOK is a Python script that helps you to scan your files, IP addresses, Hashes
 `git clone https://github.com/yourusername/ezsok.git`
 2. Replace the API keys in the script with your own:
 - `VIRUSTOTAL_API_KEY = 'your_api_key'
-- ABUSEIPDB_API_KEY = 'your_api_key'
-- URLSCAN_API_KEY = 'your_api_key'
-- SHODAN_API_KEY = 'your_api_key'
-`
+- `ABUSEIPDB_API_KEY = 'your_api_key'
+- `URLSCAN_API_KEY = 'your_api_key'
+- `SHODAN_API_KEY = 'your_api_key'
+
 ## Dependencies
 
 - Python 3.6 or higher
