@@ -81,11 +81,11 @@ Enter CSV file path: /path/to/your/input.csv`
 - UrlScan
 - Shodan
 
-## License
+# License
 
 This project is licensed under the MIT License.
 
-## Disclaimer
+# Disclaimer
 
 This tool is for educational purposes only. The authors and contributors are not responsible for any misuse or damage caused by this program. Always use with permission and follow the rules and regulations applicable in your region.
 
