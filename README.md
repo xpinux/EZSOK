@@ -58,20 +58,23 @@ Choose one of the available options:
 # Option 1: Enter Hash, IP, Domain, or Email
 Enter a hash, IP, domain, or email, and the script will scan the input data using the available APIs.
 
-Example: `Enter your choice (1, 2, or 3): 1`
-`Enter hash, IP, domain, or email: example.com`
+Example:
+- `Enter your choice (1, 2, or 3): 1`
+- `Enter hash, IP, domain, or email: example.com`
 
 # Option 2: Provide File Path to Calculate Hash
 Provide a file path, and the script will calculate the file's SHA-256 hash and scan the hash using the available APIs.
 
-Example:`Enter your choice (1, 2, or 3): 2`<br />
-`Enter file path: /path/to/your/file.txt`
+Example:
+- `Enter your choice (1, 2, or 3): 2`
+- `Enter file path: /path/to/your/file.txt`
 
 # Option 3: Provide CSV File Path with Hashes, IPs, Domains, or Emails
 Provide a CSV file path containing hashes, IPs, domains, or emails. The script will read the CSV file and scan each input data using the available APIs.
 
-Example:`Enter your choice (1, 2, or 3): 3`
-`Enter CSV file path: /path/to/your/input.csv`
+Example:
+- `Enter your choice (1, 2, or 3): 3`
+- `Enter CSV file path: /path/to/your/input.csv`
 
 # License
 
