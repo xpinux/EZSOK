@@ -64,7 +64,7 @@ Example: `Enter your choice (1, 2, or 3): 1`
 # Option 2: Provide File Path to Calculate Hash
 Provide a file path, and the script will calculate the file's SHA-256 hash and scan the hash using the available APIs.
 
-Example:`Enter your choice (1, 2, or 3): 2`
+Example:`Enter your choice (1, 2, or 3): 2`<br />
 `Enter file path: /path/to/your/file.txt`
 
 # Option 3: Provide CSV File Path with Hashes, IPs, Domains, or Emails
