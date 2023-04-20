@@ -49,7 +49,7 @@ SHODAN_API_KEY = 'your_api_key'
 - `tabulate`
 - `ipaddress`
 
-##Usage
+## Usage
 Run the script using Python:
 `python ezsok.py`
 
