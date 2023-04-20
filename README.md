@@ -20,7 +20,7 @@ Easily scan your files, Hashes, IP addresses, domains, and emails using various 
 
 EZSOK is a Python script that helps you to scan your files, IP addresses, Hashes, domains, and emails using various security APIs. It uses the following APIs:
 
-    -[VirusTotal](https://www.virustotal.com/)
+    - [VirusTotal](https://www.virustotal.com/)
     - [AbuseIPDB](https://www.abuseipdb.com/)
     - [UrlScan](https://urlscan.io/)
     - [Shodan](https://www.shodan.io/)
