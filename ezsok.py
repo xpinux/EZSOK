@@ -6,11 +6,11 @@ import ipaddress
 from tabulate import tabulate
 
 # Replace with your API keys
-VIRUSTOTAL_API_KEY = '3e2064bf5a4c77db9f3921cff64c0ee8e35f253ac2ecbfde7565a521bf00f2f4'
-ABUSEIPDB_API_KEY = 'facfe7f0b17988c3d5680319746b962794ef76e50dd584112c3fe2f6908ec77f95c87aeb0ccd3c82'
-URLSCAN_API_KEY = '3700f5ba-b83a-490a-9682-e7e987f02f5c'
-SHODAN_API_KEY = 'Np2gZpKAYHcjzIYpN5knTQK6uMujWLg8'
-MALWARESHARE_API_KEY = '6Rgni3v6BVCJbagynbsirN5i72iqyBgc'
+VIRUSTOTAL_API_KEY = ''
+ABUSEIPDB_API_KEY = ''
+URLSCAN_API_KEY = ''
+SHODAN_API_KEY = ''
+MALWARESHARE_API_KEY = ''
 
 def read_csv(file_path):
     with open(file_path, 'r') as csvfile:
