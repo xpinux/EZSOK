@@ -10,7 +10,7 @@ VIRUSTOTAL_API_KEY = ''
 ABUSEIPDB_API_KEY = ''
 URLSCAN_API_KEY = ''
 SHODAN_API_KEY = ''
-MALWARESHARE_API_KEY = ''
+
 
 def read_csv(file_path):
     with open(file_path, 'r') as csvfile:
